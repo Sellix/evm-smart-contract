@@ -1,4 +1,4 @@
-# erc20-smart-contract
+# evm-smart-contract
 
 Smart Contract to manage store funds across the platform, enables multi-output payouts through the contract's balance in order to highly decrease payout fees.
 
